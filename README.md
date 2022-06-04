@@ -1,5 +1,5 @@
 # DIO-github-challenge
-Desafio sobre git/github da trilha do bootcamp GFT Woman JAVA da DIO (Digital Innovation One).
+Desafio sobre git/github da trilha do bootcamp da plataforma DIO (Digital Innovation One).
 
 
 ### Alguns pontos que aprendi sobre Git/Github:
